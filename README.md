@@ -13,6 +13,7 @@ I am a Junior Backend Developer based in Istanbul, Turkey. I have a passion for 
 ## Projects
 
 - **Rep Diary**: A MERN stack web application that allows users to create, read, delete, and customize their workout plans for the week. [https://repdiary-hfsw.onrender.com/](#)
+- **Archer's Rise**:A platformer game where you guide an archer through platforms, collect points, and avoid falling.[sencerbilim.github.io/Archers-Rise-Game/](#)
 
 ## Learning Journey
 
