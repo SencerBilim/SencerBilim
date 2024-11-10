@@ -1,4 +1,4 @@
-# Hi there! I'm @SencerBilim 👋
+# Hi there! I'm Sencer 👋
 
 ## About Me
 
