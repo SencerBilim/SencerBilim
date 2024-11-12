@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a Junior Backend Developer based in Istanbul, Turkey. I have a passion for building robust and scalable web applications. Currently, I'm focusing on expanding my skills in backend technologies while also exploring frontend development.
+I am a Junior Backend Developer based in Istanbul, Turkey. I’m currently building up my backend skills and exploring frontend development along the way.
 
 ## Skills & Technologies
 
