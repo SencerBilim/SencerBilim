@@ -12,9 +12,9 @@ I am a Junior Backend Developer based in Istanbul, Turkey. I’m currently build
 
 ## Projects
 
-- **Rep Diary**: A MERN stack web application that allows users to create, read, delete, and customize their workout plans for the week. [https://repdiary-hfsw.onrender.com/](#)
-- **Archer's Rise**:A platformer game where you guide an archer through platforms, collect points, and avoid falling. [sencerbilim.github.io/Archers-Rise-Game/](#)
-- **Sky Sight**:  A weather app that provides real-time weather info using the OpenWeather API. [https://skysight.onrender.com/](#)
+- **Rep Diary**: A MERN stack web application that allows users to create, read, delete, and customize their workout plans for the week. [repdiary-hfsw.onrender.com/](https://repdiary-hfsw.onrender.com/)
+- **Archer's Rise**:A platformer game where you guide an archer through platforms, collect points, and avoid falling. [sencerbilim.github.io/Archers-Rise-Game/](https://sencerbilim.github.io/Archers-Rise-Game/)
+- **Sky Sight**:  A weather app that provides real-time weather info using the OpenWeather API. [skysight.onrender.com](https://skysight.onrender.com)
 
 ## Learning Journey
 
