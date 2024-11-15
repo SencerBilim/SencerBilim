@@ -2,12 +2,12 @@
 
 ## About Me
 
-I am a Junior Backend Developer based in Istanbul, Turkey. I’m currently building up my backend skills and exploring frontend development along the way.
+I am a Junior Web Developer based in Istanbul, Turkey. I’m currently building up my backend skills and exploring frontend development along the way.
 
 ## Skills & Technologies
 
 - **Languages**: JavaScript (Node.js), HTML, CSS
-- **Frameworks**: Express, React
+- **Frameworks**: Express, React, Tailwind
 - **Databases**: MongoDB
 
 ## Projects
@@ -25,6 +25,6 @@ I'm continuously learning and improving my skills through online courses, projec
 Feel free to reach out to me:
 
 - Email: [sencer.bilim@gmail.com](mailto:sencer.bilim@gmail.com)
-- LinkedIn: [www.linkedin.com/in/sencer-bilim](#)
+- LinkedIn: [www.linkedin.com/in/sencer-bilim](https://www.linkedin.com/in/sencer-bilim/)
 
 Thanks for visiting my profile! I'm excited to connect and collaborate on new opportunities.
