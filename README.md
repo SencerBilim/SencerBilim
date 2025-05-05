@@ -2,23 +2,24 @@
 
 ## About Me
 
-I am a Junior Web Developer based in Istanbul, Turkey. I’m currently building up my backend skills and exploring frontend development along the way.
+I'm a frontend and mobile app developer based in Istanbul, Turkey. I enjoy building clean, modern interfaces and seamless user experiences — both on the web and on mobile.
 
-## Skills & Technologies
+## 🛠️ Skills & Technologies
 
-- **Languages**: JavaScript (Node.js), HTML, CSS
-- **Frameworks**: Express, React, Tailwind
-- **Databases**: MongoDB
+- **Languages:** JavaScript, HTML, CSS  
+- **Frameworks & Libraries:** React, React Native, Tailwind CSS, Express  
+- **Databases:** MongoDB, SQLite  
+- **Tools & Platforms:** Git, GitHub, VS Code, Postman
 
-## Projects
+## 🚀 What I’m Working On
 
-- **Rep Diary**: A MERN stack web application that allows users to create, read, delete, and customize their workout plans for the week. [repdiary-hfsw.onrender.com/](https://repdiary-hfsw.onrender.com/)
-- **Archer's Rise**:A platformer game where you guide an archer through platforms, collect points, and avoid falling. [sencerbilim.github.io/Archers-Rise-Game/](https://sencerbilim.github.io/Archers-Rise-Game/)
-- **Sky Sight**:  A weather app that provides real-time weather info using the OpenWeather API. [skysight.onrender.com](https://skysight.onrender.com)
+- Developing cross-platform mobile apps with React Native  
+- Improving UI/UX design and app performance  
+- Publishing real-world apps
 
 ## Learning Journey
 
-I'm continuously learning and improving my skills through online courses, projects, and practice. I aim to become proficient in backend development and contribute to exciting projects in the tech industry.
+I'm continuously learning and improving my skills through building apps, projects, and practice.
 
 ## Get in Touch
 
